@@ -6,10 +6,6 @@ import styles from './App.module.css'
 
 import './global.css'
 
-// author: { avatarUrl: string, name: string, role: string }
-// content: string 
-// publishedAt: date
-
 const posts = [
   {
     id: 1,
